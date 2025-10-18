@@ -1,0 +1,56 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Why Nanotechnology}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Advantages of the AAO Template}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Porous Anodic Aluminum Oxide (PAA)}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Nanoporous Alumina Formation}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}General Process of Anodization}{5}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Theoretical Background}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Cleaning Procedure}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Solvent Cleaning}{7}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Sonication}{7}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Electrochemical Polishing}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Electrolyte Composition}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Process Parameters}{8}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}First Anodization}{9}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Barrier Layer Formation}{11}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Porous Film Formation}{11}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Factors Affecting the Anodizing Process}{15}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Etching Away the First Anodized Layer}{19}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Barrier Layer Thinning}{20}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Pb Electrodeposition}{20}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Methodology}{22}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{22}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Perovskite Photo Detector Fabrication}{22}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Aluminum Chip Preparation}{22}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Electrochemical Polishing}{23}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}First Anodization}{24}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Etching Away the First Anodized Layer}{24}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Second Anodization}{27}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Barrier Layer Thinning}{27}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.7}Pb Electrodeposition}{27}{subsubsection.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.2.8}CVD process to Grow Nanowires}{28}{subsubsection.3.2.8}%
+\contentsline {subsubsection}{\numberline {3.2.9}Spin-Coating Growth of MAPbBr$_3$ Nanowires}{30}{subsubsection.3.2.9}%
+\contentsline {subsubsection}{\numberline {3.2.10}ITO Sputtering for Top Electrode Formation}{32}{subsubsection.3.2.10}%
+\contentsline {subsection}{\numberline {3.3}Electrical Measurements}{32}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Data Processing and Analysis}{32}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Results and Discussion}{34}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Nanowire Growth via Spin Coating}{34}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}SEM images of the Spin Caoted Photo Detector}{34}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Photoresponse Behavior: Current-Time Measurements}{36}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Current-Voltage Characteristics}{39}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Photodetector Performance Metrics}{42}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Discussion and Performance Comparison}{46}{subsubsection.4.1.5}%
+\contentsline {paragraph}{Photoresponse and Stability}{46}{section*.28}%
+\contentsline {paragraph}{Current-Voltage Characteristics and Device Physics}{46}{section*.29}%
+\contentsline {paragraph}{Performance Metrics and Operating Regime}{47}{section*.30}%
+\contentsline {subsection}{\numberline {4.2}Characterization of CVD-Grown MAPbI3 Nanowire Photodetectors}{47}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Morphology}{47}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Electrical and Optoelectronic Properties}{48}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Discussion}{51}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Comparison Between Spin-Coated and CVD-Grown Photodetectors}{54}{subsection.4.3}%
+\contentsline {paragraph}{Morphology and Structural Uniformity}{54}{section*.38}%
+\contentsline {paragraph}{Coverage and Filling Efficiency}{54}{section*.39}%
+\contentsline {paragraph}{Alignment and Crystallinity}{54}{section*.40}%
+\contentsline {paragraph}{Optoelectronic Performance}{55}{section*.41}%
+\contentsline {paragraph}{Summary}{55}{section*.42}%

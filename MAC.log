@@ -1,0 +1,1904 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.6)  18 OCT 2025 07:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**MAC.tex
+(./MAC.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(./rapportCS.cls (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen141
+\l@unhyphenated=\language89
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+(c:/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+))
+(c:/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(c:/texlive/2024/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/03/11 v1.30 mathematical typesetting tools
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count198
+\calc@Bcount=\count199
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count266
+\calc@Cskip=\skip52
+)
+(c:/texlive/2024/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen144
+))
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks21
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks22
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks23
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\g_MT_multlinerow_int=\count279
+\l_MT_multwidth_dim=\dimen153
+\origjot=\skip56
+\l_MT_shortvdotswithinadjustabove_dim=\dimen154
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen155
+\l_MT_above_intertext_sep=\dimen156
+\l_MT_below_intertext_sep=\dimen157
+\l_MT_above_shortintertext_sep=\dimen158
+\l_MT_below_shortintertext_sep=\dimen159
+\xmathstrut@box=\box53
+\xmathstrut@dim=\dimen160
+)
+(c:/texlive/2024/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2024-02-15 v3.3.12 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count280
+\l__siunitx_number_exponent_fixed_int=\count281
+\l__siunitx_number_min_decimal_int=\count282
+\l__siunitx_number_min_integer_int=\count283
+\l__siunitx_number_round_precision_int=\count284
+\l__siunitx_number_lower_threshold_int=\count285
+\l__siunitx_number_upper_threshold_int=\count286
+\l__siunitx_number_group_first_int=\count287
+\l__siunitx_number_group_size_int=\count288
+\l__siunitx_number_group_minimum_int=\count289
+\l__siunitx_angle_tmp_dim=\dimen161
+\l__siunitx_angle_marker_box=\box54
+\l__siunitx_angle_unit_box=\box55
+\l__siunitx_compound_count_int=\count290
+
+(c:/texlive/2024/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count291
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_table_tmp_box=\box56
+\l__siunitx_table_tmp_dim=\dimen162
+\l__siunitx_table_column_width_dim=\dimen163
+\l__siunitx_table_integer_box=\box57
+\l__siunitx_table_decimal_box=\box58
+\l__siunitx_table_uncert_box=\box59
+\l__siunitx_table_before_box=\box60
+\l__siunitx_table_after_box=\box61
+\l__siunitx_table_before_dim=\dimen164
+\l__siunitx_table_carry_dim=\dimen165
+\l__siunitx_unit_tmp_int=\count292
+\l__siunitx_unit_position_int=\count293
+\l__siunitx_unit_total_int=\count294
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box62
+\extrarowheight=\dimen167
+\NC@list=\toks25
+\extratabsurround=\skip57
+\backup@length=\skip58
+\ar@cellbox=\box63
+))
+(c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks26
+\float@box=\box64
+\@float@everytoks=\toks27
+\@floatcapt=\box65
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+)
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count296
+\c@continuedfloat=\count297
+Package caption Info: float package is loaded.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count298
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count299
+)
+(c:/texlive/2024/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen178
+\ESO@tempdimb=\dimen179
+
+(c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+))
+\wpXoffset=\skip59
+\wpYoffset=\skip60
+\tileXoffset=\skip61
+\tileYoffset=\skip62
+\tilewidth=\skip63
+\tileheight=\skip64
+\tileX=\skip65
+\tileY=\skip66
+)
+(c:/texlive/2024/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count300
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+\scr@dte@tocline@numberwidth=\skip67
+\scr@dte@tocline@numbox=\box66
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen180
+\nom@tempdim=\dimen181
+\nomitemsep=\skip68
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip69
+\f@nch@O@elh=\skip70
+\f@nch@O@erh=\skip71
+\f@nch@O@olh=\skip72
+\f@nch@O@orh=\skip73
+\f@nch@O@elf=\skip74
+\f@nch@O@erf=\skip75
+\f@nch@O@olf=\skip76
+\f@nch@O@orf=\skip77
+)
+(c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count301
+)
+\@linkdim=\dimen182
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count304
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count305
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen183
+
+(c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count306
+\Field@Width=\dimen184
+\Fld@charsize=\dimen185
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count307
+\c@Item=\count308
+\c@Hfootnote=\count309
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip78
+)
+(c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count312
+\Gm@cntv=\count313
+\c@Gm@tempcnt=\count314
+\Gm@bindingoffset=\dimen186
+\Gm@wd@mp=\dimen187
+\Gm@odd@mp=\dimen188
+\Gm@even@mp=\dimen189
+\Gm@layoutwidth=\dimen190
+\Gm@layoutheight=\dimen191
+\Gm@layouthoffset=\dimen192
+\Gm@layoutvoffset=\dimen193
+\Gm@dimlist=\toks30
+))
+(c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box67
+))
+Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count316
+\l__lipsum_a_int=\count317
+\l__lipsum_b_int=\count318
+
+(c:/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(c:/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen194
+\lightrulewidth=\dimen195
+\cmidrulewidth=\dimen196
+\belowrulesep=\dimen197
+\belowbottomsep=\dimen198
+\aboverulesep=\dimen199
+\abovetopsep=\dimen256
+\cmidrulesep=\dimen257
+\cmidrulekern=\dimen258
+\defaultaddspace=\dimen259
+\@cmidla=\count319
+\@cmidlb=\count320
+\@aboverulesep=\dimen260
+\@belowrulesep=\dimen261
+\@thisruleclass=\count321
+\@lastruleclass=\count322
+\@thisrulewidth=\dimen262
+)
+(c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip79
+\multirow@cntb=\count323
+\multirow@dima=\skip80
+\bigstrutjot=\dimen263
+)
+(c:/texlive/2024/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen264
+\c@nlinenum=\count324
+\TeXr@lab=\toks31
+)
+(c:/texlive/2024/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2024/01/29 v4.10 for typesetting chemical formulae
+
+(c:/texlive/2024/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count325
+\g__chemgreek_tmpa_int=\count326
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count327
+\__mhchem_arrow_extPgfLength_skip=\skip81
+\mhchem@minispace@tmp=\skip82
+\mhchem@minibackspace@tmp=\skip83
+\mhchem@bondwidth=\skip84
+\mhchem@bondheight=\skip85
+\mhchem@smallbondwidth@tmpA=\skip86
+\mhchem@smallbondwidth@tmpB=\skip87
+\mhchem@smallbondwidth=\skip88
+\mhchem@bondtmp@minussidebearingleft=\skip89
+\mhchem@bondtmp@minussidebearingright=\skip90
+\l__mhchem_option_version_int=\count328
+\mhchem@option@minusmathsidebearingleft=\dimen265
+\mhchem@option@minusmathsidebearingright=\dimen266
+\mhchem@option@minustextsidebearingleft=\dimen267
+\mhchem@option@minustextsidebearingright=\dimen268
+)
+(./MAC.aux)
+\openout1 = `MAC.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+(c:/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 15.
+ (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count329
+\scratchdimen=\dimen269
+\scratchbox=\box68
+\nofMPsegments=\count330
+\nofMParguments=\count331
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count332
+\MPscratchDim=\dimen270
+\MPnumerator=\count333
+\makeMPintoPDFobject=\count334
+\everyMPtoPDFconversion=\toks33
+) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 15.
+ (./MAC.out) (./MAC.out)
+\@outlinefile=\write3
+\openout3 = `MAC.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 617.4248pt, 142.26378pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=617.4248pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.59085pt
+* \headheight=42.67912pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package chemgreek Info: Activating mapping `default' on line 15.
+
+\@nomenclaturefile=\write4
+\openout4 = `MAC.nlo'.
+
+Package nomencl Info: Writing nomenclature file MAC.nlo on input line 47.
+<logos/hkust.png, id=192, 3011.25pt x 2007.5pt>
+File: logos/hkust.png Graphic file (type png)
+<use logos/hkust.png>
+Package pdftex.def Info: logos/hkust.png  used on input line 48.
+(pdftex.def)             Requested size: 256.07741pt x 170.71182pt.
+<logos/bordureLMU-rl.png, id=193, 598.6365pt x 877.47826pt>
+File: logos/bordureLMU-rl.png Graphic file (type png)
+<use logos/bordureLMU-rl.png>
+Package pdftex.def Info: logos/bordureLMU-rl.png  used on input line 48.
+(pdftex.def)             Requested size: 172.95158pt x 253.51154pt.
+<logos/bordureLMU-tl.png, id=195, 217.686pt x 319.083pt>
+File: logos/bordureLMU-tl.png Graphic file (type png)
+<use logos/bordureLMU-tl.png>
+Package pdftex.def Info: logos/bordureLMU-tl.png  used on input line 48.
+(pdftex.def)             Requested size: 172.95656pt x 253.51883pt.
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./logos/bordureLMU-rl.png
+> <./logos/bordureLMU-tl.png> <./logos/hkust.png>]
+<logos/hkustlogo.png, id=210, 120.45pt x 120.45pt>
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 58.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58 	\newpage
+               [1{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-
+ts1.enc} <./logos/hkustlogo.png>] (./MAC.toc
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 41.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[2])
+\tf@toc=\write5
+\openout5 = `MAC.toc'.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 62.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[3]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 83.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[4]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 95.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[5]
+<imgs/Anodization.jpeg, id=299, 461.67776pt x 190.02759pt>
+File: imgs/Anodization.jpeg Graphic file (type jpg)
+<use imgs/Anodization.jpeg>
+Package pdftex.def Info: imgs/Anodization.jpeg  used on input line 103.
+(pdftex.def)             Requested size: 426.79135pt x 175.67416pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 116.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[6 <./imgs/Anodization.jpeg>]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 117.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 139.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[7]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 166.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 167.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[8]
+
+LaTeX Warning: Citation `bibideessaa2023review' on page 9 undefined on input li
+ne 174.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 203.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[9]
+
+LaTeX Warning: Citation `bibideessaa2023review' on page 10 undefined on input l
+ine 208.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 217.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[10]
+<imgs/anodization of AAO.jpeg, id=349, 247.8861pt x 143.8197pt>
+File: imgs/anodization of AAO.jpeg Graphic file (type jpg)
+<use imgs/anodization of AAO.jpeg>
+Package pdftex.def Info: imgs/anodization of AAO.jpeg  used on input line 228.
+(pdftex.def)             Requested size: 426.79135pt x 247.62619pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 239.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[11]
+<imgs/steps.jpeg, id=361, 407.92934pt x 273.6624pt>
+File: imgs/steps.jpeg Graphic file (type jpg)
+<use imgs/steps.jpeg>
+Package pdftex.def Info: imgs/steps.jpeg  used on input line 242.
+(pdftex.def)             Requested size: 426.79135pt x 286.33092pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imgs/cell.jpeg, id=365, 397.485pt x 240.1773pt>
+File: imgs/cell.jpeg Graphic file (type jpg)
+<use imgs/cell.jpeg>
+Package pdftex.def Info: imgs/cell.jpeg  used on input line 254.
+(pdftex.def)             Requested size: 426.79135pt x 257.89238pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 263.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[12 <./imgs/anodization of AAO.jpeg>]
+Overfull \hbox (3.06586pt too wide) in paragraph at lines 269--279
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 283.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[13 <./imgs/steps.jpeg>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 285.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[14 <./imgs/cell.jpeg>]
+<imgs/ionFlow.jpeg, id=396, 313.17pt x 194.1654pt>
+File: imgs/ionFlow.jpeg Graphic file (type jpg)
+<use imgs/ionFlow.jpeg>
+Package pdftex.def Info: imgs/ionFlow.jpeg  used on input line 292.
+(pdftex.def)             Requested size: 426.79135pt x 264.62138pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 303.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[15 <./imgs/ionFlow.jpeg>]
+Overfull \hbox (50.85338pt too wide) in paragraph at lines 307--318
+[][]
+ []
+
+
+Overfull \hbox (11.38042pt too wide) in paragraph at lines 331--346
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (30.55508pt too wide) in paragraph at lines 351--375
+[][]
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 379.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[16]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 380.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 385.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[17]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 389.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[18]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 413.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[19]
+<imgs/thin.jpg, id=450, 529.31084pt x 190.7125pt>
+File: imgs/thin.jpg Graphic file (type jpg)
+<use imgs/thin.jpg>
+Package pdftex.def Info: imgs/thin.jpg  used on input line 427.
+(pdftex.def)             Requested size: 426.79135pt x 153.78076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 435.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[20]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 455.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[21 <./imgs/thin.jpg>]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 478.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 479.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[22]
+<imgs/EP solution.jpg, id=467, 4015.0pt x 3011.25pt>
+File: imgs/EP solution.jpg Graphic file (type jpg)
+<use imgs/EP solution.jpg>
+Package pdftex.def Info: imgs/EP solution.jpg  used on input line 485.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/EP cell.jpg, id=468, 4015.0pt x 3011.25pt>
+File: imgs/EP cell.jpg Graphic file (type jpg)
+<use imgs/EP cell.jpg>
+Package pdftex.def Info: imgs/EP cell.jpg  used on input line 493.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/done EP.jpg, id=469, 4015.0pt x 3011.25pt>
+File: imgs/done EP.jpg Graphic file (type jpg)
+<use imgs/done EP.jpg>
+Package pdftex.def Info: imgs/done EP.jpg  used on input line 503.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 516.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[23 <./imgs/EP solution.jpg> <./imgs/EP cell.jpg> <./imgs/done EP.jpg>]
+<imgs/EC FA.jpg, id=475, 4015.0pt x 3011.25pt>
+File: imgs/EC FA.jpg Graphic file (type jpg)
+<use imgs/EC FA.jpg>
+Package pdftex.def Info: imgs/EC FA.jpg  used on input line 527.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/FA setup.jpg, id=476, 4015.0pt x 3011.25pt>
+File: imgs/FA setup.jpg Graphic file (type jpg)
+<use imgs/FA setup.jpg>
+Package pdftex.def Info: imgs/FA setup.jpg  used on input line 535.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/FA res.jpg, id=477, 4015.0pt x 3011.25pt>
+File: imgs/FA res.jpg Graphic file (type jpg)
+<use imgs/FA res.jpg>
+Package pdftex.def Info: imgs/FA res.jpg  used on input line 545.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/burnt.jpg, id=478, 4015.0pt x 3011.25pt>
+File: imgs/burnt.jpg Graphic file (type jpg)
+<use imgs/burnt.jpg>
+Package pdftex.def Info: imgs/burnt.jpg  used on input line 552.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/etch.jpg, id=482, 239.9364pt x 319.9152pt>
+File: imgs/etch.jpg Graphic file (type jpg)
+<use imgs/etch.jpg>
+Package pdftex.def Info: imgs/etch.jpg  used on input line 569.
+(pdftex.def)             Requested size: 213.39568pt x 284.54301pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 579.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[24]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 579.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[25 <./imgs/EC FA.jpg> <./imgs/FA setup.jpg> <./imgs/FA res.jpg> <./imgs/burnt.
+jpg>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 579.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[26 <./imgs/etch.jpg>]
+<imgs/BTcell.jpg, id=501, 4015.0pt x 3011.25pt>
+File: imgs/BTcell.jpg Graphic file (type jpg)
+<use imgs/BTcell.jpg>
+Package pdftex.def Info: imgs/BTcell.jpg  used on input line 595.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/BTp.jpg, id=502, 4015.0pt x 3011.25pt>
+File: imgs/BTp.jpg Graphic file (type jpg)
+<use imgs/BTp.jpg>
+Package pdftex.def Info: imgs/BTp.jpg  used on input line 603.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 615.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[27]
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 6
+18.
+
+
+LaTeX Warning: Command \textperiodcentered invalid in math mode on input line 6
+18.
+
+Missing character: There is no · in font cmr12!
+<imgs/EDcell.jpg, id=512, 4015.0pt x 3011.25pt>
+File: imgs/EDcell.jpg Graphic file (type jpg)
+<use imgs/EDcell.jpg>
+Package pdftex.def Info: imgs/EDcell.jpg  used on input line 627.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/EDsettings.jpg, id=513, 4015.0pt x 3011.25pt>
+File: imgs/EDsettings.jpg Graphic file (type jpg)
+<use imgs/EDsettings.jpg>
+Package pdftex.def Info: imgs/EDsettings.jpg  used on input line 635.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/EDp.jpg, id=514, 4015.0pt x 3011.25pt>
+File: imgs/EDp.jpg Graphic file (type jpg)
+<use imgs/EDp.jpg>
+Package pdftex.def Info: imgs/EDp.jpg  used on input line 645.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/EDr.jpg, id=515, 4015.0pt x 3011.25pt>
+File: imgs/EDr.jpg Graphic file (type jpg)
+<use imgs/EDr.jpg>
+Package pdftex.def Info: imgs/EDr.jpg  used on input line 653.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 668.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[28 <./imgs/BTcell.jpg> <./imgs/BTp.jpg>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 668.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[29 <./imgs/EDcell.jpg> <./imgs/EDsettings.jpg> <./imgs/EDp.jpg> <./imgs/EDr.jp
+g>]
+<imgs/CVDs.jpg, id=530, 4015.0pt x 3011.25pt>
+File: imgs/CVDs.jpg Graphic file (type jpg)
+<use imgs/CVDs.jpg>
+Package pdftex.def Info: imgs/CVDs.jpg  used on input line 679.
+(pdftex.def)             Requested size: 96.02739pt x 72.00038pt.
+<imgs/CVD.jpg, id=531, 4015.0pt x 3011.25pt>
+File: imgs/CVD.jpg Graphic file (type jpg)
+<use imgs/CVD.jpg>
+Package pdftex.def Info: imgs/CVD.jpg  used on input line 687.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 697.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 697.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 697.
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 702.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[30 <./imgs/CVDs.jpg> <./imgs/CVD.jpg>]
+<imgs/O2P.jpg, id=543, 4015.0pt x 3011.25pt>
+File: imgs/O2P.jpg Graphic file (type jpg)
+<use imgs/O2P.jpg>
+Package pdftex.def Info: imgs/O2P.jpg  used on input line 710.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/wait.jpg, id=544, 4015.0pt x 3011.25pt>
+File: imgs/wait.jpg Graphic file (type jpg)
+<use imgs/wait.jpg>
+Package pdftex.def Info: imgs/wait.jpg  used on input line 718.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/SCf.jpg, id=545, 4015.0pt x 3011.25pt>
+File: imgs/SCf.jpg Graphic file (type jpg)
+<use imgs/SCf.jpg>
+Package pdftex.def Info: imgs/SCf.jpg  used on input line 728.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/Aneal.jpg, id=546, 4015.0pt x 3011.25pt>
+File: imgs/Aneal.jpg Graphic file (type jpg)
+<use imgs/Aneal.jpg>
+Package pdftex.def Info: imgs/Aneal.jpg  used on input line 736.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 745.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[31 <./imgs/O2P.jpg> <./imgs/wait.jpg> <./imgs/SCf.jpg> <./imgs/Aneal.jpg>]
+<imgs/CVDpd.jpg, id=552, 4015.0pt x 3011.25pt>
+File: imgs/CVDpd.jpg Graphic file (type jpg)
+<use imgs/CVDpd.jpg>
+Package pdftex.def Info: imgs/CVDpd.jpg  used on input line 759.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/SCpd.jpg, id=553, 4015.0pt x 3011.25pt>
+File: imgs/SCpd.jpg Graphic file (type jpg)
+<use imgs/SCpd.jpg>
+Package pdftex.def Info: imgs/SCpd.jpg  used on input line 767.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+<imgs/SCpd2.jpg, id=554, 4015.0pt x 3011.25pt>
+File: imgs/SCpd2.jpg Graphic file (type jpg)
+<use imgs/SCpd2.jpg>
+Package pdftex.def Info: imgs/SCpd2.jpg  used on input line 777.
+(pdftex.def)             Requested size: 192.0548pt x 144.00076pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 799.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[32]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 799.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[33 <./imgs/CVDpd.jpg> <./imgs/SCpd.jpg> <./imgs/SCPD2.jpg>]
+<imgs/4.jpg, id=564, 471.96735pt x 383.47346pt>
+File: imgs/4.jpg Graphic file (type jpg)
+<use imgs/4.jpg>
+Package pdftex.def Info: imgs/4.jpg  used on input line 821.
+(pdftex.def)             Requested size: 192.0548pt x 156.04317pt.
+<imgs/2.jpg, id=565, 471.96735pt x 383.47346pt>
+File: imgs/2.jpg Graphic file (type jpg)
+<use imgs/2.jpg>
+Package pdftex.def Info: imgs/2.jpg  used on input line 829.
+(pdftex.def)             Requested size: 192.0548pt x 156.04317pt.
+<imgs/12.jpg, id=566, 471.96735pt x 383.47346pt>
+File: imgs/12.jpg Graphic file (type jpg)
+<use imgs/12.jpg>
+Package pdftex.def Info: imgs/12.jpg  used on input line 839.
+(pdftex.def)             Requested size: 192.0548pt x 156.04317pt.
+
+Overfull \hbox (13.09526pt too wide) in paragraph at lines 851--852
+\T1/cmr/m/n/12 aligned and uni-formly dis-tributed through-out the pore depth. 
+The mea-sured nanochan-
+ []
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 852.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[34]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 852.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[35 <./imgs/4.jpg> <./imgs/2.jpg> <./imgs/12.jpg>]
+<results/SC/ITs.png, id=581, 2168.1pt x 4336.2pt>
+File: results/SC/ITs.png Graphic file (type png)
+<use results/SC/ITs.png>
+Package pdftex.def Info: results/SC/ITs.png  used on input line 866.
+(pdftex.def)             Requested size: 298.75264pt x 597.46996pt.
+
+
+LaTeX Warning: Float too large for page by 4.54514pt on input line 869.
+
+<results/SC/ITs2.png, id=582, 2168.1pt x 867.24pt>
+File: results/SC/ITs2.png Graphic file (type png)
+<use results/SC/ITs2.png>
+Package pdftex.def Info: results/SC/ITs2.png  used on input line 872.
+(pdftex.def)             Requested size: 426.79135pt x 170.70569pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 883.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[36]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 883.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[37 <./results/SC/ITs.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 891.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[38 <./results/SC/ITs2.png>]
+Overfull \hbox (63.39868pt too wide) in paragraph at lines 899--900
+[]\T1/cmr/bx/n/12 Interface charge ac-cu-mu-la-tion: \T1/cmr/m/n/12 In-ef-fi-ci
+ent charge ex-trac-tion at the $[][][]$/electrode
+ []
+
+<results/SC/IVs.png, id=608, 2168.1pt x 867.24pt>
+File: results/SC/IVs.png Graphic file (type png)
+<use results/SC/IVs.png>
+Package pdftex.def Info: results/SC/IVs.png  used on input line 910.
+(pdftex.def)             Requested size: 426.79135pt x 170.70569pt.
+<results/SC/IVs2.png, id=609, 2168.1pt x 1734.48pt>
+File: results/SC/IVs2.png Graphic file (type png)
+<use results/SC/IVs2.png>
+Package pdftex.def Info: results/SC/IVs2.png  used on input line 916.
+(pdftex.def)             Requested size: 426.79135pt x 341.41139pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 923.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[39]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 923.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[40 <./results/SC/IVs.png> <./results/SC/IVs2.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 944.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[41]
+<results/SC/meas.png, id=641, 2168.1pt x 2601.72pt>
+File: results/SC/meas.png Graphic file (type png)
+<use results/SC/meas.png>
+Package pdftex.def Info: results/SC/meas.png  used on input line 956.
+(pdftex.def)             Requested size: 426.79135pt x 512.1171pt.
+<results/SC/measurements.png, id=642, 2168.1pt x 2601.72pt>
+File: results/SC/measurements.png Graphic file (type png)
+<use results/SC/measurements.png>
+Package pdftex.def Info: results/SC/measurements.png  used on input line 963.
+(pdftex.def)             Requested size: 426.79135pt x 512.1171pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 981.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[42]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 981.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[43 <./results/SC/meas.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 981.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[44 <./results/SC/measurements.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 998.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[45]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1024.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[46]
+Overfull \hbox (2.16707pt too wide) in paragraph at lines 1039--1039
+[]\T1/cmr/bx/n/14.4 Characterization of CVD-Grown MAPbI3 Nanowire Pho-
+ []
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1046.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[47]
+<imgs/TVCVD.jpg, id=690, 744.7825pt x 607.26875pt>
+File: imgs/TVCVD.jpg Graphic file (type jpg)
+<use imgs/TVCVD.jpg>
+Package pdftex.def Info: imgs/TVCVD.jpg  used on input line 1054.
+(pdftex.def)             Requested size: 192.0548pt x 156.58888pt.
+<imgs/TVCVD2.jpg, id=691, 730.73pt x 597.23125pt>
+File: imgs/TVCVD2.jpg Graphic file (type jpg)
+<use imgs/TVCVD2.jpg>
+Package pdftex.def Info: imgs/TVCVD2.jpg  used on input line 1062.
+(pdftex.def)             Requested size: 192.0548pt x 156.96236pt.
+<imgs/CVCVD.jpg, id=692, 220.825pt x 178.6675pt>
+File: imgs/CVCVD.jpg Graphic file (type jpg)
+<use imgs/CVCVD.jpg>
+Package pdftex.def Info: imgs/CVCVD.jpg  used on input line 1072.
+(pdftex.def)             Requested size: 192.0548pt x 155.39584pt.
+<imgs/CVCVD2.jpg, id=693, 799.98875pt x 652.4375pt>
+File: imgs/CVCVD2.jpg Graphic file (type jpg)
+<use imgs/CVCVD2.jpg>
+Package pdftex.def Info: imgs/CVCVD2.jpg  used on input line 1080.
+(pdftex.def)             Requested size: 192.0548pt x 156.628pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1093.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[48 <./imgs/TVCVD.jpg> <./imgs/TVCVD2.jpg> <./imgs/CVCVD.jpg> <./imgs/CVCVD2.jp
+g>]
+<results/CVD/IVs2.png, id=703, 2168.1pt x 1734.48pt>
+File: results/CVD/IVs2.png Graphic file (type png)
+<use results/CVD/IVs2.png>
+Package pdftex.def Info: results/CVD/IVs2.png  used on input line 1097.
+(pdftex.def)             Requested size: 426.79135pt x 341.41139pt.
+<results/CVD/IVs.png, id=704, 2168.1pt x 867.24pt>
+File: results/CVD/IVs.png Graphic file (type png)
+<use results/CVD/IVs.png>
+Package pdftex.def Info: results/CVD/IVs.png  used on input line 1103.
+(pdftex.def)             Requested size: 426.79135pt x 170.70569pt.
+
+Overfull \hbox (5.01085pt too wide) in paragraph at lines 1109--1110
+[]\T1/cmr/m/n/12 Time-dependent cur-rent ($\OML/cmm/m/it/12 I$ \T1/cmr/m/n/12 -
+ $\OML/cmm/m/it/12 T$\T1/cmr/m/n/12 ) mea-sure-ments un-der pe-ri-odic il-lu-mi
+-na-tion demon-
+ []
+
+<results/CVD/ITs.png, id=708, 2168.1pt x 2601.72pt>
+File: results/CVD/ITs.png Graphic file (type png)
+<use results/CVD/ITs.png>
+Package pdftex.def Info: results/CVD/ITs.png  used on input line 1114.
+(pdftex.def)             Requested size: 298.75264pt x 358.48196pt.
+<results/CVD/ITs2.png, id=709, 2168.1pt x 867.24pt>
+File: results/CVD/ITs2.png Graphic file (type png)
+<use results/CVD/ITs2.png>
+Package pdftex.def Info: results/CVD/ITs2.png  used on input line 1120.
+(pdftex.def)             Requested size: 426.79135pt x 170.70569pt.
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1127.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[49 <./results/CVD/IVs2.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1127.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[50 <./results/CVD/IVs.png> <./results/CVD/ITs.png>]
+<results/CVD/meas.png, id=731, 2168.1pt x 2601.72pt>
+File: results/CVD/meas.png Graphic file (type png)
+<use results/CVD/meas.png>
+Package pdftex.def Info: results/CVD/meas.png  used on input line 1136.
+(pdftex.def)             Requested size: 426.79135pt x 512.1171pt.
+<results/CVD/measurements.png, id=732, 2168.1pt x 2601.72pt>
+File: results/CVD/measurements.png Graphic file (type png)
+<use results/CVD/measurements.png>
+Package pdftex.def Info: results/CVD/measurements.png  used on input line 1143.
+
+(pdftex.def)             Requested size: 426.79135pt x 512.1171pt.
+
+Overfull \hbox (2.71774pt too wide) in paragraph at lines 1156--1157
+\T1/cmr/m/n/12 A com-par-a-tive anal-y-sis be-tween the spin-coated and CVD-gro
+wn per-ovskite nanowire
+ []
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1157.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[51 <./results/CVD/ITs2.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1157.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[52 <./results/CVD/meas.png>]
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1157.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[53 <./results/CVD/measurements.png>]
+Overfull \hbox (0.59045pt too wide) in paragraph at lines 1160--1161
+ []\T1/cmr/bx/n/12 Morphology and Struc-tural Uni-for-mity[] \T1/cmr/m/n/12 The
+ spin-coated $[][][]$ nanowires
+ []
+
+
+Overfull \hbox (15.44638pt too wide) in paragraph at lines 1168--1169
+ []\T1/cmr/bx/n/12 Alignment and Crys-tallinity[] \T1/cmr/m/n/12 Both tech-niqu
+es pro-duce ver-ti-cally aligned nanowires
+ []
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1170.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[54]
+Overfull \hbox (9.47423pt too wide) in paragraph at lines 1172--1173
+ []\T1/cmr/bx/n/12 Optoelectronic Per-for-mance[] \T1/cmr/m/n/12 The spin-coate
+d pho-tode-tec-tor demon-strates strong
+ []
+
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1179.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[55] (./MAC.bbl)
+File: logos/hkustlogo.png Graphic file (type png)
+<use logos/hkustlogo.png>
+Package pdftex.def Info: logos/hkustlogo.png  used on input line 1182.
+(pdftex.def)             Requested size: 48.17914pt x 48.17914pt.
+
+
+Package fancyhdr Warning: \headheight is too small (42.67912pt): 
+(fancyhdr)                Make it at least 52.52917pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.52917pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.85005pt}.
+
+[56] (./MAC.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `MAC.out' has not changed.
+(rerunfilecheck)             Checksum: 840B9FD29E64296A2B969C1948C1E32B;9613.
+ ) 
+Here is how much of TeX's memory you used:
+ 21012 strings out of 474115
+ 408869 string characters out of 5747697
+ 1952190 words of memory out of 5000000
+ 42925 multiletter control sequences out of 15000+600000
+ 575962 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 125i,17n,121p,1651b,1056s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb
+><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texli
+ve/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/te
+xmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2024/texmf-dist/f
+onts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2024/texmf-dist/fonts/type1
+/public/cm-super/sfcc1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm
+-super/sfcc2074.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfr
+m0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+<c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texliv
+e/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2024/tex
+mf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on MAC.pdf (57 pages, 94965855 bytes).
+PDF statistics:
+ 898 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 176 named destinations out of 1000 (max. 500000)
+ 637 words of extra memory for PDF output out of 10000 (max. 10000000)
+
