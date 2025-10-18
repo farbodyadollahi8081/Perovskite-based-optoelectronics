@@ -21,17 +21,17 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{lv2017research}
-Y.~Lv, ``Research progress in formation mechanism of anodizing aluminum
-  oxide,'' in \emph{IOP Conference Series: Earth and Environmental Science},
-  vol. 100, no.~1.\hskip 1em plus 0.5em minus 0.4em\relax IOP Publishing, 2017,
-  p. 012022.
-
 \bibitem{eessaa2023review}
 A.~K. Eessaa and A.~El-Shamy, ``Review on fabrication, characterization, and
   applications of porous anodic aluminum oxide films with tunable pore sizes
   for emerging technologies,'' \emph{Microelectronic Engineering}, vol. 279, p.
   112061, 2023.
+
+\bibitem{lv2017research}
+Y.~Lv, ``Research progress in formation mechanism of anodizing aluminum
+  oxide,'' in \emph{IOP Conference Series: Earth and Environmental Science},
+  vol. 100, no.~1.\hskip 1em plus 0.5em minus 0.4em\relax IOP Publishing, 2017,
+  p. 012022.
 
 \bibitem{YANG2003440}
 \BIBentryALTinterwordspacing
